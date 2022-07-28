@@ -1,8 +1,15 @@
 #title, .subtitle, .post_title {
-    color: blue;
+    color: green;
+    font-size: 33px;
+    font-weight: bold;
 }
 
 .post_title {
-    font-size: 16px;
+    font-size: 22px;
     font-style: italic;
+}
+.texto{
+    font-size: 20px;
+    text-align: justify;
+    text-justify:auto;
 }
